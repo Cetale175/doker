@@ -1,2 +1,2 @@
-docker tag local-image:tagname new-repo:tagname
-docker push new-repo:tagname
+docker tag local-image:doker new-repo:doker
+docker push new-repo:doker
